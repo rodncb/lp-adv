@@ -82,7 +82,7 @@ function Footer() {
           &copy; {new Date().getFullYear()} Angelotto Advogados. Todos os
           direitos reservados. | Desenvolvido por{" "}
           <a href="#" target="_blank" rel="noopener noreferrer">
-            Agência Web
+            Rodncb
           </a>
         </p>
       </div>
